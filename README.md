@@ -33,4 +33,4 @@ Só rodar o programa *./GeradorDocs* e seguir as coisas que estão na tela :)
 3. Rodar o Script
 4. Na pasta Saida vai ter os PDFs :)
 5. Só como observação, nem todas as palavras-chaves funcionam direito por algum problema interno da função que edita o docx, então por exemplo eu tentei num_CPF e não funcionou a substituição mas CPF_num deu certo, então vai um pouco de tentativa e erro de ver se tá dando certo ou não, mas recomendo só usar um underline _ na frente das coisas que geralmente funciona
-6. Alternativamente pode rodar *./generate_docs.py <Arquivo csv> <Arquivo Docx> <Diretorio de saida>* pra especificar onde esses arquivos estão
+6. Alternativamente pode rodar *./generate_docs <Arquivo csv> <Arquivo Docx> <Diretorio de saida>* pra especificar onde esses arquivos estão
